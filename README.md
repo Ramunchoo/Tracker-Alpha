@@ -7,9 +7,9 @@ CEV par position · indicateur de chance · replayer de mains · stats spot par 
 
 <br>
 
-[![Télécharger Poker Tracker](https://img.shields.io/badge/T%C3%89L%C3%89CHARGER-Poker%20Tracker%201.2.0-00c2e0?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Ramunchoo/Tracker-Alpha/releases/download/v1.2.0/Poker-Tracker-Setup-1.2.0.exe)
+[![Télécharger Poker Tracker](https://img.shields.io/badge/T%C3%89L%C3%89CHARGER-Poker%20Tracker%201.0.0-00c2e0?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Ramunchoo/Tracker-Alpha/releases/download/v1.0.0/Poker-Tracker-Setup-1.0.0.exe)
 
-<sub>Windows 10 ou 11 · 101 Mo · un clic, le téléchargement démarre</sub>
+<sub>Windows 10 ou 11 · 103 Mo · un clic, le téléchargement démarre</sub>
 
 </div>
 
@@ -17,7 +17,7 @@ CEV par position · indicateur de chance · replayer de mains · stats spot par 
 
 ## 1. Télécharger
 
-Clique sur le bouton bleu ci-dessus : le fichier `Poker-Tracker-Setup-1.2.0.exe` se télécharge directement.
+Clique sur le bouton bleu ci-dessus : le fichier `Poker-Tracker-Setup-1.0.0.exe` se télécharge directement.
 
 Ton navigateur peut dire que le fichier **« n'est pas couramment téléchargé »** (l'application est
 récente et pas encore signée numériquement). C'est normal :
