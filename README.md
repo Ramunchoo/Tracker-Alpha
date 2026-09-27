@@ -7,7 +7,7 @@ CEV par position · indicateur de chance · replayer de mains · stats spot par 
 
 <br>
 
-[![Télécharger Spinyx](https://img.shields.io/github/v/release/Ramunchoo/Tracker-Alpha?style=for-the-badge&logo=windows&logoColor=white&label=T%C3%89L%C3%89CHARGER%20SPINYX&color=00c2e0)](https://github.com/Ramunchoo/Tracker-Alpha/releases/download/v1.1.1/Spinyx-Setup-1.1.1.exe)
+[![Télécharger Spinyx](https://img.shields.io/github/v/release/Ramunchoo/Tracker-Alpha?style=for-the-badge&logo=windows&logoColor=white&label=T%C3%89L%C3%89CHARGER%20SPINYX&color=00c2e0)](https://github.com/Ramunchoo/Tracker-Alpha/releases/latest/download/Spinyx-Setup.exe)
 
 <sub>Gratuit pendant la bêta · Windows 10 ou 11 · toujours la dernière version</sub>
 
@@ -18,7 +18,7 @@ CEV par position · indicateur de chance · replayer de mains · stats spot par 
 ## 1. Télécharger
 
 Clique sur le bouton bleu ci-dessus : le téléchargement de la dernière version démarre tout seul
-(fichier **`Spinyx-Setup-….exe`**).
+(fichier **`Spinyx-Setup.exe`**).
 
 Ton navigateur peut dire que le fichier **« n'est pas couramment téléchargé »** (l'application est
 récente et pas encore signée numériquement). C'est normal :
